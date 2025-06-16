@@ -669,7 +669,7 @@ class TetrisGame:
                 continue
 
             with self.lock:
-                gravity_delay = max(0.05, 0.8 - (self.level * 0.03))
+                gravity_delay = max(0.05, 0.8 - (self.level * 0.07))
                 time.sleep(gravity_delay)
 
                 # Verifica novamente se o jogo não foi pausado nesse intervalo
