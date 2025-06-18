@@ -1,8 +1,6 @@
 # 🎮 Tetris Game - Projeto de Sistemas Operacionais
 
-> **"A arte de organizar o caos, uma peça por vez."**
-
-Este projeto é uma recriação do clássico jogo **Tetris**, desenvolvido como trabalho acadêmico da disciplina de **Sistemas Operacionais**. Nele, aplicamos conceitos como **threads**, **semáforos** e **controle de tempo** para criar um jogo funcional e interativo em linguagem C/Python.
+Este projeto é uma recriação do clássico jogo **Tetris**, desenvolvido como trabalho acadêmico da disciplina de **Sistemas Operacionais**. Nele, aplicamos conceitos como **threads**, **semáforos** e **controle de tempo** para criar um jogo funcional e interativo em linguagem Python.
 
 ---
 
@@ -30,7 +28,7 @@ Quanto mais linhas você eliminar... **mais alta será sua pontuação!**
 
 ## 👥 Integrantes do Grupo
 
-- 👩‍💻 Ana Resende  
+- 👩‍💻 Ana Vitória Resende  
 - 👩 Bianca Maria  
 - 👨‍💻 Gabriel Willian  
 - 👨‍💻 Caio Eduardo  
