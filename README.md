@@ -1,10 +1,8 @@
 # 🎮 Tetris Game - Projeto de Sistemas Operacionais
 
-![Tetris Banner](https://upload.wikimedia.org/wikipedia/commons/7/7c/Tetris.JPG)
-
 > **"A arte de organizar o caos, uma peça por vez."**
 
-Este projeto é uma recriação do clássico jogo **Tetris**, desenvolvido como trabalho acadêmico da disciplina de **Sistemas Operacionais**. Nele, aplicamos conceitos como **threads**, **semáforos** e **controle de tempo** para criar um jogo funcional e interativo em linguagem C/Python (dependendo da implementação).
+Este projeto é uma recriação do clássico jogo **Tetris**, desenvolvido como trabalho acadêmico da disciplina de **Sistemas Operacionais**. Nele, aplicamos conceitos como **threads**, **semáforos** e **controle de tempo** para criar um jogo funcional e interativo em linguagem C/Python.
 
 ---
 
