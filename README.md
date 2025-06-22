@@ -29,7 +29,4 @@ Quanto mais linhas você eliminar... **mais alta será sua pontuação!**
 ## 👥 Integrantes do Grupo
 
 - 👩‍💻 Ana Vitória Resende  
-- 👩 Bianca Maria  
 - 👨‍💻 Gabriel Willian  
-- 👨‍💻 Caio Eduardo  
-- 👩 Adrielle Rocha  
